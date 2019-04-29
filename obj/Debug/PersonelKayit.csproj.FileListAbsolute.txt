@@ -1,0 +1,12 @@
+C:\Users\inali\source\repos\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.exe.config
+C:\Users\inali\source\repos\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.exe
+C:\Users\inali\source\repos\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.pdb
+C:\Users\inali\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csprojAssemblyReference.cache
+C:\Users\inali\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Properties.Resources.resources
+C:\Users\inali\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.GenerateResource.cache
+C:\Users\inali\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.CoreCompileInputs.cache
+C:\Users\inali\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.exe
+C:\Users\inali\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.pdb
+C:\Users\inali\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Frmistatistik.resources
+C:\Users\inali\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.FrmAna.resources
+C:\Users\inali\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.FrmGiris.resources
